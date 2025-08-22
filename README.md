@@ -3,7 +3,6 @@
 Two-Raspberry-Pi demo for real-time heart rate monitoring with a MAX30102 PPG sensor. The sender Pi reads IR data, computes metrics (BPM, IPM, HRSTD, RMSSD), and streams JSON over Bluetooth RFCOMM to a receiver Pi that displays a live dashboard.
 
 - Demo video: https://youtu.be/x7xXRoa4eDU
-- Repository: https://github.com/lanhp-vn/bluetooth-pulse-monitoring-rpi5
 
 ## Project structure
 - `source_codes/heartrate_sender-master/`
