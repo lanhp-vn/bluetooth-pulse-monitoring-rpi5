@@ -1,4 +1,4 @@
-# Bluetooth Pulse Monitoring between 2 Raspberry Pi 5
+# Bluetooth Pulse Monitoring with Dual Raspberry Pi 5 Setup
 
 Two-Raspberry-Pi demo for real-time heart rate monitoring with a MAX30102 PPG sensor. The sender Pi reads IR data, computes metrics (BPM, IPM, HRSTD, RMSSD), and streams JSON over Bluetooth RFCOMM to a receiver Pi that displays a live dashboard.
 
